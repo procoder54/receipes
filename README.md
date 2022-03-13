@@ -1,0 +1,2 @@
+The idea of this project is to create a receipe website where receipes of different food items will ge listed and each receipe will have their own webpage for detailed overview.
+Upon completion of this project i will have gain some idea on how to work with images and links on a webpage.
